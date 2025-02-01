@@ -11,7 +11,7 @@
     "lf": "eslint ./src/pages/static/contributors.tsx"
   },
   "dependencies": {
-    "@gsap/react": "^2.1.0",
+    "@gsap/react": "^2.1.2",
     "@hookform/resolvers": "^3.3.4",
     "@next/bundle-analyzer": "^14.2.3",
     "@radix-ui/react-accordion": "^1.1.2",
